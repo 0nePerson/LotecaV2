@@ -38,4 +38,3 @@ var numSort = [];
     document.getElementById("acertos").innerHTML = cont;
   }
 }
-
