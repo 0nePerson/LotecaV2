@@ -16,6 +16,7 @@ var numSort = [];
   }
 
   function lerNumero(value, pos){
+    let num = Number(value)
     if(value < 1) {
       alert("Numero não pode ser zero ou negativo! Digite novamente")
     } else if(value > 60) {
